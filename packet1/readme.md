@@ -2,9 +2,9 @@
 
 2.使用   
 
-  a import debounce from 'debounce'   
+    a import debounce from 'debounce'   
 
-  b debounce(fun,time)   
+    b debounce(fun,time)   
 
-  c fun要去抖的函数，time去抖的时间   
-  
+    c fun要去抖的函数，time去抖的时间   
+
