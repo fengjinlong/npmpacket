@@ -2,7 +2,7 @@
 
 2.使用   
 
-    a import debounce from 'debounce'   
+    a import debounce from 'debouncefun'   
 
     b debounce(fun,time)   
 
