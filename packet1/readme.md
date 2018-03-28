@@ -1,5 +1,4 @@
-![mahua](mahua-logo.jpg)
-
+![Image text](https://github.com/fengjinlong/img/blob/master/timg.jpg)
 
 * 去抖函数
 * 每次滚动执行的方法都引用同一个外部变量
