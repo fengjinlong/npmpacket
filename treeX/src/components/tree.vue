@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="d">
     <tree-node
       v-for="(item, index) in cloneData"
       :key="index"
@@ -8,6 +8,8 @@
     ></tree-node>
   </div>
 </template>
+<style>
+</style>
 <script>
   import TreeNode from './node.vue';
   import { deepCopy } from './assist.js';

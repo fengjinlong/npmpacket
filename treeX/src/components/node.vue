@@ -87,8 +87,12 @@
 </script>
 <style>
   .tree-ul, .tree-li{
+    margin: 0;
+    padding: 0;
     list-style: none;
     padding-left: 10px;
+    text-align: -webkit-auto;
+    background: red;
   }
   .tree-expand{
     cursor: pointer;

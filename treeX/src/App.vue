@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import Tree from './components/tree.vue';
-// import Tree from 'treell';
+// import Tree from './components/tree.vue';
+import Tree from 'treell';
 export default {
   components: {
     Tree
@@ -20,7 +20,7 @@ export default {
       console.log(checkedArr)
     }
   },
-  name: 'app',
+  name: 'app1',
   data () {
     return {
       msg: [
@@ -65,6 +65,6 @@ export default {
 
 <style>
 #app {
-  
+  text-align: center
 }
 </style>
