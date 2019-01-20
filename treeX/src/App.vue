@@ -9,6 +9,7 @@
 
 <script>
 import Tree from './components/tree.vue';
+// import Tree from 'treell';
 export default {
   components: {
     Tree
